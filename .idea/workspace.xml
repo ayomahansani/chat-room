@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca2518c4-4f3a-4ab0-a661-ff66a312fa02" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/chatRoom/controller/SignupFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/icons/pink_camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/icons/pink_happy_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/icons/pink_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/icons/pink_send_message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/icons/send-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/chat_bubbles.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/pink_bubble.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/pink_report_form.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/pretty_girl_typing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/purple_bubble.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/signup_form.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/chatRoom/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/chatRoom/server/ClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/chatRoom/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/chatRoom/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/chatRoom/LauncherWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/chatRoom/LauncherWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/chatRoom/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/chatRoom/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/chatRoom/controller/ChatFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/chatRoom/controller/ChatFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/chatRoom/controller/LoginFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/chatRoom/controller/LoginFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/chatRoom/dbConnnection/DbConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/chatRoom/db/DbConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/01_pigeon_dribble.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/add-user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/camera(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/desktop-wallpaper-minion-for-ipad-minions-thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/dm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/dslr-camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/images1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/microphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/password.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/passwordBlack.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/icons/passwordBlack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/power.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/premium_photo-1670595337767-1af7ce73df5c.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/send(1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/send.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/the-angry-birds-movie-2-blues-2bosmr3g1n3z1n7i.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/username black.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/icons/username_black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/view Image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/zKU3Cq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/chat_form.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/login_form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/login_form.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2b9hkz4QOyWt0uSwBpUWu9iktzk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/ayomahansani/Downloads/chat-room/src/main/resources/assets/images/imoji",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/images/imoji" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/icons" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/images" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LauncherWrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.chatRoom.LauncherWrapper" />
+      <module name="chat-room" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.chatRoom.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LauncherWrapper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca2518c4-4f3a-4ab0-a661-ff66a312fa02" name="Changes" comment="" />
+      <created>1705633349461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705633349461</updated>
+      <workItem from="1705633350663" duration="33807000" />
+      <workItem from="1706365972532" duration="43474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

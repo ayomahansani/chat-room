@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXISTS chatRoom;
+
+USE chatRoom;
+
+CREATE TABLE user(
+                     username VARCHAR(20) PRIMARY KEY,
+                     password VARCHAR(20),
+                     image LONGBLOB
+);
